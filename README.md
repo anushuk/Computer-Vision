@@ -7,6 +7,6 @@
  
  <h3> 2.Face Detection via webcam </h3>
  <p/>Face detection is a computer technology that determines the locations and sizes of human faces in arbitrary (digital) images. It detects facial features and ignores anything else, such as buildings, trees and bodies. Face detection can be regarded as a more general case of face localization.</p>
-<p>OpenCV's algorithm is currently using the following Haar-like features which are the input to the basic classifiers: </p>
+<p>OpenCV's algorithm is currently using the following Haar-like features which are the input to the basic classifiers : </p>
 
  <h3> 3.Live Sketch </h3>
